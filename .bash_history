@@ -238,3 +238,109 @@ git init .
 git add *
 git remote add origin https://github.com/18191851/Edureka12dec.git
 git status git remote -v
+clear
+ls
+ls -l
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/18191851/GIT.git
+git push -u origin main
+git init
+git add *
+git commit -m "first commit"
+git remote add origin https://github.com/18191851/GIT.git
+git push origin master
+git init
+git add *
+git commit -m "first commit"
+git remote add origin https://github.com/18191851/GIT.git
+git push origin master
+git push origin master -f
+git log --oneline
+git push main master
+git remove origin main
+git remote remove main
+git remote remove origin
+git log--oneline
+git log --oneline
+git branch -M master
+git log --oneline
+git remote add origin https://github.com/18191851/GIT.git
+git push origin master
+vi test6.java
+git add test6.java
+git init
+git add .
+git commit -m "Check Alphabet using if else"
+git status
+git ls-files
+git push origin master
+git remote remove origin
+git remote add origin https://github.com/18191851/github.git
+git push origin master
+https://github.com/18191851/GIT.git
+gh repo clone 18191851/GIT
+clear
+apt-get install gitsome
+gh repo clone 18191851/GIT
+git repo clone 18191851/GIT
+git  clone https://github.com/18191851/GIT.git
+ls -l
+git clone https://github.com/lerndevops/labs.git
+ls -l
+clear
+ls -l
+cd labs
+ls -l
+cd ansible 
+ls -l
+cd install 
+ls -l
+vi InstallAnsible.txt
+cd ..
+cd
+history
+ls -ltra
+clear
+cat a.java
+git log --oneline
+ls -l
+cd myrepo
+ls -l
+mkdir demo
+cd demo
+ls -l
+touch 1.xml
+vi 1.xml
+git status
+git add 1.xml
+git status
+git init
+git commit -m "Fibonacci Series"
+git push origin master
+cd
+git push origin master
+ls -l
+cd myrepo
+mkdir demo1
+cd demo1
+touch 1.txt 2.txt
+git status
+git add .
+git status
+git commit -m "New files"
+cd
+git push origin master
+clear
+ls -files
+clear 
+git ls-files
+clear
+git ls-files
+ls-files
+git log --oneline
+git fetch
+git ls-files
+ls -ltr

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1621446070,,"wq!"
+|2,0,1621502832,,"wq!"
 :wq
 |2,0,1621388392,,"wq"
 
@@ -27,30 +27,76 @@
 # Registers:
 
 # File marks:
-'0  12  0  ~/test6.java
-|4,48,12,0,1621446070,"~/test6.java"
-'1  42  1  ~/demo2.xml
-|4,49,42,1,1621445231,"~/demo2.xml"
-'2  42  0  ~/demo1.xml
-|4,50,42,0,1621445231,"~/demo1.xml"
-'3  43  0  ~/demo1.xml
-|4,51,43,0,1621445231,"~/demo1.xml"
-'4  42  0  ~/demo1.xml
-|4,52,42,0,1621445230,"~/demo1.xml"
-'5  1  0  ~/demo1.xml
-|4,53,1,0,1621443913,"~/demo1.xml"
-'6  1  0  ~/demo1.xml
-|4,54,1,0,1621443783,"~/demo1.xml"
-'7  1  0  ~/demo1.xml
-|4,55,1,0,1621443783,"~/demo1.xml"
+'0  1  0  ~/GIT/test6.java
+|4,48,1,0,1621502832,"~/GIT/test6.java"
+'1  16  0  ~/myrepo/demo/1.xml
+|4,49,16,0,1621448128,"~/myrepo/demo/1.xml"
+'2  1  0  ~/labs/ansible/install/InstallAnsible.txt
+|4,50,1,0,1621446727,"~/labs/ansible/install/InstallAnsible.txt"
+'3  12  0  ~/test6.java
+|4,51,12,0,1621446070,"~/test6.java"
+'4  42  1  ~/demo2.xml
+|4,52,42,1,1621445231,"~/demo2.xml"
+'5  42  0  ~/demo1.xml
+|4,53,42,0,1621445231,"~/demo1.xml"
+'6  43  0  ~/demo1.xml
+|4,54,43,0,1621445231,"~/demo1.xml"
+'7  42  0  ~/demo1.xml
+|4,55,42,0,1621445230,"~/demo1.xml"
 '8  1  0  ~/demo1.xml
-|4,56,1,0,1621443783,"~/demo1.xml"
-'9  16  0  ~/test5.java
-|4,57,16,0,1621443599,"~/test5.java"
+|4,56,1,0,1621443913,"~/demo1.xml"
+'9  1  0  ~/demo1.xml
+|4,57,1,0,1621443783,"~/demo1.xml"
 
 # Jumplist (newest first):
+-'  1  0  ~/GIT/test6.java
+|4,39,1,0,1621502832,"~/GIT/test6.java"
+-'  16  0  ~/myrepo/demo/1.xml
+|4,39,16,0,1621448128,"~/myrepo/demo/1.xml"
+-'  16  0  ~/myrepo/demo/1.xml
+|4,39,16,0,1621448128,"~/myrepo/demo/1.xml"
+-'  1  0  ~/myrepo/demo/1.xml
+|4,39,1,0,1621448077,"~/myrepo/demo/1.xml"
+-'  1  0  ~/myrepo/demo/1.xml
+|4,39,1,0,1621448077,"~/myrepo/demo/1.xml"
+-'  1  0  ~/labs/ansible/install/InstallAnsible.txt
+|4,39,1,0,1621446727,"~/labs/ansible/install/InstallAnsible.txt"
+-'  1  0  ~/labs/ansible/install/InstallAnsible.txt
+|4,39,1,0,1621446727,"~/labs/ansible/install/InstallAnsible.txt"
+-'  1  0  ~/labs/ansible/install/InstallAnsible.txt
+|4,39,1,0,1621446727,"~/labs/ansible/install/InstallAnsible.txt"
+-'  1  0  ~/labs/ansible/install/InstallAnsible.txt
+|4,39,1,0,1621446727,"~/labs/ansible/install/InstallAnsible.txt"
 -'  12  0  ~/test6.java
 |4,39,12,0,1621446070,"~/test6.java"
+-'  12  0  ~/test6.java
+|4,39,12,0,1621446070,"~/test6.java"
+-'  12  0  ~/test6.java
+|4,39,12,0,1621446070,"~/test6.java"
+-'  12  0  ~/test6.java
+|4,39,12,0,1621446070,"~/test6.java"
+-'  12  0  ~/test6.java
+|4,39,12,0,1621446070,"~/test6.java"
+-'  12  0  ~/test6.java
+|4,39,12,0,1621446070,"~/test6.java"
+-'  12  0  ~/test6.java
+|4,39,12,0,1621446070,"~/test6.java"
+-'  12  0  ~/test6.java
+|4,39,12,0,1621446070,"~/test6.java"
+-'  1  0  ~/test6.java
+|4,39,1,0,1621446022,"~/test6.java"
+-'  1  0  ~/test6.java
+|4,39,1,0,1621446022,"~/test6.java"
+-'  1  0  ~/test6.java
+|4,39,1,0,1621446022,"~/test6.java"
+-'  1  0  ~/test6.java
+|4,39,1,0,1621446022,"~/test6.java"
+-'  1  0  ~/test6.java
+|4,39,1,0,1621446022,"~/test6.java"
+-'  1  0  ~/test6.java
+|4,39,1,0,1621446022,"~/test6.java"
+-'  1  0  ~/test6.java
+|4,39,1,0,1621446022,"~/test6.java"
 -'  1  0  ~/test6.java
 |4,39,1,0,1621446022,"~/test6.java"
 -'  42  1  ~/demo2.xml
@@ -65,6 +111,118 @@
 |4,39,42,0,1621445231,"~/demo1.xml"
 -'  43  0  ~/demo1.xml
 |4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  1  ~/demo2.xml
+|4,39,42,1,1621445231,"~/demo2.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445231,"~/demo1.xml"
+-'  43  0  ~/demo1.xml
+|4,39,43,0,1621445231,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
+-'  42  0  ~/demo1.xml
+|4,39,42,0,1621445230,"~/demo1.xml"
 -'  42  0  ~/demo1.xml
 |4,39,42,0,1621445230,"~/demo1.xml"
 -'  42  0  ~/demo1.xml
@@ -74,183 +232,42 @@
 -'  1  0  ~/demo1.xml
 |4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443889,"~/demo1.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443889,"~/demo1.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443859,"~/demo1.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443859,"~/demo1.xml"
--'  1  0  ~/demo2.xml
-|4,39,1,0,1621443793,"~/demo2.xml"
--'  1  0  ~/demo2.xml
-|4,39,1,0,1621443793,"~/demo2.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443783,"~/demo1.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443783,"~/demo1.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443783,"~/demo1.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443783,"~/demo1.xml"
+|4,39,1,0,1621443913,"~/demo1.xml"
 -'  1  0  ~/demo1.xml
-|4,39,1,0,1621443696,"~/demo1.xml"
--'  1  0  ~/demo1.xml
-|4,39,1,0,1621443696,"~/demo1.xml"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  16  0  ~/test5.java
-|4,39,16,0,1621443599,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  1  0  ~/test5.java
-|4,39,1,0,1621443581,"~/test5.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
--'  24  0  ~/test4.java
-|4,39,24,0,1621443553,"~/test4.java"
+|4,39,1,0,1621443913,"~/demo1.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/GIT/test6.java
+	*	1621502830	0
+	"	1	0
+	^	1	0
+
+> ~/myrepo/demo/1.xml
+	*	1621448122	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	16	0
+
+> ~/labs/ansible/install/InstallAnsible.txt
+	*	1621446725	0
+	"	1	0
+	^	1	0
 
 > ~/test6.java
 	*	1621446067	0
